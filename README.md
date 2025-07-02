@@ -17,3 +17,12 @@ powered by \*\*Streamlit\*\*.
 Run the app locally using Streamlit:
 
 \`\`\`bash streamlit run app/streamlit_app.py
+
+
+Here is the short demo of Movie Recommendations system Project 
+
+
+
+
+https://github.com/user-attachments/assets/aa08b67e-44b0-494d-90c0-e7169c31f323
+
